@@ -1,0 +1,273 @@
+{
+    "products": [
+    {
+        "id":1,
+        "head":"BESTSELLERS",
+        "items":[
+            {
+                "id":1,
+                "pic":"https://images.dominos.co.in/4623-CMB1210.jpg",
+                "price":980,
+                "title":"Meal for 4: Indi Tandoori Paneer & Peppy Paneer Combo ",
+                "context":"Med Indi Tandoori Paneer + Peppy Paneer + 2 Garlic Bread +2 Pepsi"
+            },
+            {
+                "id":2,
+                "pic":"https://images.dominos.co.in/4625-CMB1211.jpg",
+                "price":991,
+                "title":"Meal for 4: Chicken Dominator Combo",
+                "context":"Large Chicken Dominator + 2 Garlic Bread + 2 Pepsi"
+            },
+            {
+                "id":3,
+                "pic":"https://images.dominos.co.in/4620-CMB1206.jpg",
+                "price":574,
+                "title":"Meal for 2: Farmhouse Combo",
+                "context":"sMed Farmhouse + Garlic Bread + Pepsi + Choco Lava Cake"
+            },
+            {
+                "id":4,
+                "pic":"https://images.dominos.co.in/4622-CMB1207.jpg",
+                "price":598,
+                "title":"Meal for 2: Chicken Dominator Combo",
+                "context":"Med Chicken Dominator + Garlic Bread"
+            },
+            {
+                "id":5,
+                "pic":"https://images.dominos.co.in/4622-CMB1207.jpg",
+                "price":2181,
+                "title":"Party Combo - 4 Veg Pizza varieties + Sides & Pepsi",
+                "context":"Med Farmhouse + Med Extravaganza + Med Peppy Paneer"
+            }
+        ]
+    },
+
+    {
+        "id":2,
+        "head":"VEG PIZZA",
+        "items":[
+            {
+                "id":6,
+                "pic":"https://images.dominos.co.in/PIZ0170.jpg",
+                "price":599,
+                "title":"The Cheese Dominator",
+                "context":"Loaded with 1 Pound of Mozzarella and gooey Liquid Cheese on a Classic Large Pizza topped with a generous helping of herb sprinkle"
+            },
+            {
+                "id":7,
+                "pic":"https://images.dominos.co.in/PIZ0171.jpg",
+                "price":599,
+                "title":"The 4 Cheese Pizza",
+                "context":"Cheese Overloaded pizza with 4 different varieties of cheese and 4 times the cheese"
+            },
+            
+            {
+                "id":8,
+                "pic":"https://images.dominos.co.in/new_margherita_2502.jpg",
+                "price":219,
+                "title":"Margherita",
+                "context":"Classic delight with 100% real mozzarella cheese"
+            },
+            {
+                "id":9,
+                "pic":"https://images.dominos.co.in/double_cheese_margherita_2502.jpg",
+                "price":349,
+                "title":"Double Cheese Margherita",
+                "context":"A classic delight loaded with extra 100% real mozzarella cheese"
+            },
+            {
+                "id":10,
+                "pic":"https://images.dominos.co.in/new_peppy_paneer.jpg",
+                "price":419,
+                "title":"Farmhouse",
+                "context":"Delightful combination of onion, capsicum, tomato & grilled mushroom"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "head":"NON-VEG PIZZA",
+        "items":[
+            {
+                "id":11,
+                "pic":"https://images.dominos.co.in/PIZ5157.jpg",
+                "price":529,
+                "title":"Spiced Double Chicken",
+                "context":"sDelightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers."
+            },
+            {
+                "id":12,
+                "pic":"https://images.dominos.co.in/PIZ5158.jpg",
+                "price":639,
+                "title":"Chicken Maximus",
+                "context":"Loaded to the Max with Chicken Tikka, Chicken Keema, Chicken Sausage and a double dose of grilled Chicken Rashers."
+            },
+            
+            {
+                "id":13,
+                "pic":"https://images.dominos.co.in/PIZ5159.jpg",
+                "price":679,
+                "title":"The 5 Chicken Feast Pizza",
+                "context":"Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken Meatballs, Chicken Tikka, herby Chicken Sausage"
+            },
+            {
+                "id":14,
+                "pic":"https://images.dominos.co.in/PIZ5160.jpg",
+                "price":670,
+                "title":"Indo Fusion Chicken Pizza",
+                "context":"Relish the fusion of 5 of your favorite chicken toppings - Peri Peri Chicken, Chicken Pepperoni, Chicken Tikka, Pepper Barbecue Chicken"
+            },
+            {
+                "id":15,
+                "pic":"https://images.dominos.co.in/new_chicken_dominator.jpg",
+                "price":599,
+                "title":"Chicken Dominator",
+                "context":"Loaded with double pepper barbecue chicken, peri-peri chicken, chicken tikka & grilled chicken rashers"
+            },
+            {
+                "id":16,
+                "pic":"https://images.dominos.co.in/new_chicken_golden_delight.jpg",
+                "price":499,
+                "title":"Chicken Golden Delight",
+                "context":"Double pepper barbecue chicken, golden corn and extra cheese, true delight"
+            },
+            {
+                "id":17,
+                "pic":"https://images.dominos.co.in/new_non_veg_supreme.jpg",
+                "price":599,
+                "title":"Non Veg Supreme",
+                "context":"Supreme combination of black olives, onion, capsicum, grilled mushroom, pepper barbecue chicken, peri-peri chicken & grilled chicken"
+            },
+            {
+                "id":18,
+                "pic":"https://images.dominos.co.in/cheesepepperoni.png",
+                "price":599,
+                "title":"Chicken Pepperoni",
+                "context":"A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "head":"MEALS & COMBOS",
+        "items":[
+            {
+                "id":19,
+                "pic":"https://images.dominos.co.in/4619-CMB1205.jpg",
+                "price":654,
+                "title":"Meal for 2: Veg Extravaganza Combo",
+                "context":"Med Veg Extravagnza + Garlic Bread + Pepsi + Choco Lava Cake"
+            },
+            {
+                "id":20,
+                "pic":"https://images.dominos.co.in/4620-CMB1206.jpg",
+                "price":574,
+                "title":"Meal for 2: Farmhouse Combo",
+                "context":"Med Farmhouse + Garlic Bread + Pepsi + Choco Lava Cake"
+            },
+            
+            {
+                "id":21,
+                "pic":"https://images.dominos.co.in/4621-CMB1208.jpg",
+                "price":655,
+                "title":"Meal for 2: Non-Veg Supreme Combo",
+                "context":"Med Non Veg Supreme + Garlic Bread + Pepsi"
+            },
+            {
+                "id":22,
+                "pic":"https://images.dominos.co.in/4622-CMB1207.jpg",
+                "price":598,
+                "title":"Meal for 2: Chicken Dominator Combo",
+                "context":"Med Chicken Dominator + Garlic Bread"
+            },
+            {
+                "id":23,
+                "pic":"https://images.dominos.co.in/4420-CMB1065.jpg",
+                "price":980,
+                "title":"Meal for 4: Indi Tandoori Paneer & Peppy Paneer Combo",
+                "context":"Med Indi Tandoori Paneer + Peppy Paneer + 2 Garlic Bread +2 Pepsi"
+            },
+            {
+                "id":24,
+                "pic":"https://images.dominos.co.in/4624-CMB1214.jpg",
+                "price":950,
+                "title":"Meal for 4: Farmhouse & Peppy Paneer Combo",
+                "context":"Med Farmhouse + Peppy Paneer + 2 Garlic Bread + 2 Pepsi"
+            },
+            {
+                "id":25,
+                "pic":"https://images.dominos.co.in/4625-CMB1211.jpg",
+                "price":1196,
+                "title":"Meal for 4: Chicken Dominator & Non-Veg Supreme Combo",
+                "context":"Med Chicken Dominator + Med Nveg Supreme + 2 Garlic Bread"
+            },
+            {
+                "id":26,
+                "pic":"https://images.dominos.co.in/4626-CMB1212.jpg",
+                "price":991,
+                "title":"Meal for 4: Chicken Dominator Combo",
+                "context":"Large Chicken Dominator + 2 Garlic Bread + 2 Pepsi"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "head":"CHICKEN LOVERS PIZZA",
+        "items":[
+            {
+                "id":27,
+                "pic":"https://images.dominos.co.in/PIZ5157.jpg",
+                "price":529,
+                "title":"Spiced Double Chicken",
+                "context":"Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers."
+            },
+            {
+                "id":28,
+                "pic":"https://images.dominos.co.in/PIZ5158.jpg",
+                "price":639,
+                "title":"Chicken Maximus",
+                "context":"Loaded to the Max with Chicken Tikka, Chicken Keema, Chicken Sausage and a double dose of grilled Chicken Rashers."
+            },
+            
+            {
+                "id":29,
+                "pic":"https://images.dominos.co.in/PIZ5159.jpg",
+                "price":679,
+                "title":"The 5 Chicken Feast Pizza",
+                "context":"Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken Meatballs, Chicken Tikka, herby Chicken Sausage"
+            },
+            {
+                "id":30,
+                "pic":"https://images.dominos.co.in/PIZ5160.jpg",
+                "price":679,
+                "title":"Indo Fusion Chicken Pizza",
+                "context":"Relish the fusion of 5 of your favorite chicken toppings - Peri Peri Chicken, Chicken Pepperoni, Chicken Tikka, Pepper Barbecue Chicken"
+            },
+            {
+                "id":31,
+                "pic":"https://images.dominos.co.in/PIZ5157.jpg",
+                "price":529,
+                "title":"Spiced Double Chicken",
+                "context":"Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers."
+            },
+            {
+                "id":32,
+                "pic":"https://images.dominos.co.in/PIZ5158.jpg",
+                "price":639,
+                "title":"Chicken Maximus",
+                "context":"Loaded to the Max with Chicken Tikka, Chicken Keema, Chicken Sausage and a double dose of grilled Chicken Rashers."
+            },
+            {
+                "id":33,
+                "pic":"https://images.dominos.co.in/PIZ5159.jpg",
+                "price":679,
+                "title":"The 5 Chicken Feast Pizza",
+                "context":"Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken Meatballs, Chicken Tikka, herby Chicken Sausage "
+            }
+          
+        ]
+    }
+   
+
+]
+}
